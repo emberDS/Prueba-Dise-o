@@ -51,12 +51,13 @@ El ejercicio presentado aqui no es ningun proyecto real, los participantes se en
 
 Sonor es una empresa formada por Ingenieros de Software  y amantes de las motos, gracias a los avances tecnologicos han permitido implementar productos tecnologicos a las motos, y tienen ideado lanzar una plataforma donde tu puedas customizar tus productos, de acuerdo a tus necesidades.
 
-Cada producto es una pieza de software a la medida, desde sistema de detección a distancia, encendidos por RFID, bio-sensores de temperatura, "Un kilometro por cada linea de codigo".
+Cada producto es una pieza de software a la medida para cada moto, desde sistema de detección a distancia, encendidos por RFID, bio-sensores de temperatura, cascos con comunicación por radiofrecuencia, vaya "Un kilometro por cada linea de codigo".
 
 
-Los clientes quieren algo estilo apple, pero que tenga estetica y acabados futuristas, sus inspiraciones son Dieter Rams y y esta destinado a Personas de 20-50 Años
+Los clientes quieren algo estilo apple, pero que tenga estetica y acabados futuristas, sus inspiraciones son Dieter Rams y esta destinado a Personas de 20-50 Años con poderes adquisitivos altos
 
-- El entrevistador te compartira la información restate
+
+- El entrevistador te compartira la información restante
 
 
 Suerte y Éxito!
