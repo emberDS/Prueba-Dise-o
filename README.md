@@ -2,7 +2,7 @@
 
 Si está leyendo esto, significa que estamos interesados en trabajar con usted en EMBER y juntos resolver problemas, inovar y crear soluciones tecnologicas
 
-Este README proporciona las instrucciones para una pequeña prueba autónoma para un puesto de ingeniero de software FullStack.
+Este README proporciona las instrucciones para una pequeña prueba autónoma para un puesto de diseño UX/UI
 
 
 # Las Habilidades
